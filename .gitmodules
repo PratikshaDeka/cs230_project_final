@@ -1,0 +1,6 @@
+[submodule "ChampSim"]
+	path = ChampSim
+	url = ./ChampSim
+[submodule "CS"]
+	path = CS
+	url = ./CS
